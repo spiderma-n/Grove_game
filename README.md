@@ -1,4 +1,4 @@
-# jungy2Dgame
+# Grove
 this is my first 2D game, that I learned every thing from Youtube, and learning how to use Godot and fix code errors with help from Deepseek
 # about this game
 - parkour
