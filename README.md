@@ -1,5 +1,8 @@
 # Grove
 this is my first 2D game, that I learned every thing from Youtube, and learning how to use Godot and fix code errors with help from Deepseek
+# Game 
+itch.io web : this is my game page for download and playing
+https://spiderma-n.itch.io/grove1
 # about this game
 - parkour
 - pixel art
