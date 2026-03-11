@@ -27,8 +27,8 @@ This experience of making a game not only taught me the basic ability to write c
 2. Coco Code (youtube) https://youtu.be/5V9f3MT86M8?si=iaXEUkdV6QmKK6HJ
 3. Techcast (youtube) https://youtu.be/TxEgOkSdrxM?si=XkODrf5EJpvxqpc1
 # AI that I used
-- ChatGPT - to translate some words that I don't know
-- Deep Seek - to fix the error code or make it easier
+- ChatGPT - to translate specific vocabulary that I do not know
+- Deep Seek - to understand programs and help fix certain parts of the code that I cannot solve
 # Where the assets that I used from
 - itch.io https://share.google/uWP0dghwVYAsRNnvd
 - CraftPix https://share.google/fbeIJUXQexf1BNPoZ
