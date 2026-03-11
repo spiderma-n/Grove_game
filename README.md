@@ -10,11 +10,13 @@ https://spiderma-n.itch.io/grove1
 # How long did it take on this project
 I spent half of my entire school break to learning basic of GDscript and Godot system
 # Inspiration
-At first, I was trying to figure out which faculty I really wanted to study in. I knew I was interested in computers, and I also knew that what I loved doing the most was playing games. I had always thought that when I grew up, I wanted to work as a game developer. Then one idea popped into my head "if that’s what I want, why not try making a game myself?"
+At first, I was hesitant about which faculty or major I should choose to study. Therefore, I gradually began searching for myself. I realized that one of my interests was playing games. During that time, I was also preparing for a project presentation competition. I became deeply immersed in my preparation and started to question how I could make my presentation more than just a boring delivery of information that could not capture the attention of the audience or the judges.
 
-I had no idea how it would turn out because I barely had any coding experience. But with the motivation I had and the joy of trying, I gave it a shot. It was really difficult. I made a lot of mistakes in my code and had to rewrite things countless times. But when the errors were finally fixed and the code worked, it made me so happy.
+I believed that no matter how good the content or project we prepared was, that would only be one part of the presentation. Another important part is communication through our speech, our work, and the media we use. The idea of creating media for the presentation was what led me to start making this game.
 
-All of this effort resulted in this game. It’s not flashy or perfect, but I see it as my first step, one that came from effort and the courage to overcome my fears. I’m very proud of myself and I’m excited to try making other types of games next.
+My obstacle was that although I wanted to make a game, I did not know how to code and had no knowledge in this field. Therefore, I could not create a game as presentation media at that time. However, I kept this idea and worked on it throughout my school break. I learned the basics of coding and how to use different programs from YouTube and Google. In addition, I asked AI for help to understand how to use certain features of the programs that were not explained in the videos.
+
+This experience of making a game not only taught me the basic ability to write code, but also allowed me to create the first game in my life. With my curiosity to learn new things and my persistence despite mistakes—even though I had to fix code errors countless times—this experience helped me see my future more clearly. I realized that I could produce various forms of media to present products, allowing my marketing to attract customers with new approaches and creative ideas that keep up with the preferences of different target groups and the continuously evolving society. This makes me excited and confident that I truly enjoy marketing that moves forward together with technology.
 # What have I learn from it
 - the basic of GDscript
 - Godot system
